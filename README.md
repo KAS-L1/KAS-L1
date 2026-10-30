@@ -4,7 +4,13 @@
 
 I build responsive web applications that pair clean design with solid backends. I'm currently the sole developer of an enterprise HRIS platform (Angular, Laravel, GraphQL, PostgreSQL, Docker on AWS). Outside of code, I'm a Filipino martial artist.
 
-🌐 [kasl-portfolio.netlify.app](https://kasl-portfolio.netlify.app) · ✉️ [kier.salise.dev@gmail.com](mailto:kier.salise.dev@gmail.com)
+🌐 [kasl-portfolio.netlify.app](https://kasl-portfolio.netlify.app) · ✉️ [kier.salise.dev@gmail.com](mailto:kier.salise.dev@gmail.com) · 🎵 [TikTok @devkasl](https://www.tiktok.com/@devkasl)
+
+## Currently
+
+- 🏢 Building and maintaining an enterprise HRIS platform at Ascendens Asia
+- 🎓 Studying for a Master of Science in Information Technology at University of the People
+- 🎮 Shipping [KASLCODM](https://kasl-codm.netlify.app), a gun builds and meta site for Call of Duty: Mobile players
 
 ## Featured projects
 
