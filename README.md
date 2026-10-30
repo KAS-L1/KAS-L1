@@ -1,63 +1,31 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1>Hi, I'm Kier Salise (Kasl)</h1>
 
-###
+**Full-Stack Software Engineer** at Ascendens Asia · **MSIT student** at University of the People · Quezon City, PH 🇵🇭
 
-<p align="left">My name is KAS L and I'm a Fullstack Developer, from PH. I am a passionate developer with a Bachelor's degree in Information Technology. My focus lies in creating responsive web applications that marry clean design with exceptional user experiences.</p>
+I build responsive web applications that pair clean design with solid backends. I'm currently the sole developer of an enterprise HRIS platform (Angular, Laravel, GraphQL, PostgreSQL, Docker on AWS). Outside of code, I'm a Filipino martial artist.
 
-###
+[![Portfolio](https://img.shields.io/badge/Portfolio-kasl--portfolio.netlify.app-0ea5e9?style=flat-square)](https://kasl-portfolio.netlify.app)
+[![Email](https://img.shields.io/badge/Email-kier.salise.dev%40gmail.com-6366f1?style=flat-square)](mailto:kier.salise.dev@gmail.com)
 
-<h2 align="left">I am an enthusiastic and creative web developer with a Bachelor’s degree in Information Technology. I enjoy creating intuitive solutions, and as a martial artist, I bring discipline to every project.</h2>
+## Featured projects
 
-###
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [KASLCODM](https://kasl-codm.netlify.app) | Call of Duty: Mobile gun builds, validated loadout codes, and meta tier lists | Next.js, TypeScript, Supabase |
+| [Tongits Pro Tracker](https://kasl-tongitspro.netlify.app) | Real-time card tracker and probability calculator for Tongits | React, Vite, Node.js, WebSockets |
+| [Portfolio](https://kasl-portfolio.netlify.app) | My personal site with project case studies | Next.js, TypeScript, Tailwind CSS |
 
-<p align="left">✨ Creating bugs since day 1.<br>📚 I'm currently learning Fullstack.<br>🎯 Goals: Zero to Hero.</p>
+## Tech stack
 
-###
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,tailwind,php,laravel,nodejs,graphql,python&perline=11" alt="Languages and frameworks" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,prisma,docker,aws,linux,git,github,gitlab&perline=11" alt="Databases and tools" />
+</p>
 
-<h2 align="left">I code with</h2>
+## Contributions
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="composer logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/KAS-L1/KAS-L1/output/snake.svg" alt="Snake animation" />
-
-###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KAS-L1/KAS-L1/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/KAS-L1/KAS-L1/output/snake.svg" alt="Snake animation eating my contribution graph" />
+</picture>
