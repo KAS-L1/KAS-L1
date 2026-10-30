@@ -1,11 +1,10 @@
 <h1>Hi, I'm Kier Salise (Kasl)</h1>
 
-**Full-Stack Software Engineer** at Ascendens Asia · **MSIT student** at University of the People · Quezon City, PH 🇵🇭
+**Full-Stack Software Engineer** at Ascendens Asia · **MSIT student** at University of the People · Quezon City, Philippines
 
 I build responsive web applications that pair clean design with solid backends. I'm currently the sole developer of an enterprise HRIS platform (Angular, Laravel, GraphQL, PostgreSQL, Docker on AWS). Outside of code, I'm a Filipino martial artist.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-kasl--portfolio.netlify.app-0ea5e9?style=flat-square)](https://kasl-portfolio.netlify.app)
-[![Email](https://img.shields.io/badge/Email-kier.salise.dev%40gmail.com-6366f1?style=flat-square)](mailto:kier.salise.dev@gmail.com)
+🌐 [kasl-portfolio.netlify.app](https://kasl-portfolio.netlify.app) · ✉️ [kier.salise.dev@gmail.com](mailto:kier.salise.dev@gmail.com)
 
 ## Featured projects
 
@@ -17,11 +16,16 @@ I build responsive web applications that pair clean design with solid backends. 
 
 ## Tech stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,tailwind,php,laravel,nodejs,graphql,python&perline=11" alt="Languages and frameworks" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,prisma,docker,aws,linux,git,github,gitlab&perline=11" alt="Databases and tools" />
-</p>
+**Frontend**<br />
+<img src="https://skillicons.dev/icons?i=ts,js,angular,react,nextjs,vue,nuxtjs,tailwind" alt="TypeScript, JavaScript, Angular, React, Next.js, Vue, Nuxt, Tailwind CSS" />
+
+**Backend & data**<br />
+<img src="https://skillicons.dev/icons?i=php,laravel,graphql,apollo,nodejs,express,python,mysql,postgres,supabase" alt="PHP, Laravel, GraphQL, Apollo, Node.js, Express, Python, MySQL, PostgreSQL, Supabase" />
+
+**DevOps, testing & tools**<br />
+<img src="https://skillicons.dev/icons?i=docker,nginx,aws,linux,git,github,gitlab,jest,vitest,tauri" alt="Docker, Nginx, AWS, Linux, Git, GitHub, GitLab, Jest, Vitest, Tauri" />
+
+Also: Angular Material, Laravel Lighthouse, Playwright, PHPUnit, n8n automation.
 
 ## Contributions
 
