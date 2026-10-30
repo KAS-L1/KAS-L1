@@ -17,13 +17,13 @@ I build responsive web applications that pair clean design with solid backends. 
 ## Tech stack
 
 **Frontend**<br />
-<img src="https://skillicons.dev/icons?i=ts,js,angular,react,nextjs,vue,nuxtjs,tailwind" alt="TypeScript, JavaScript, Angular, React, Next.js, Vue, Nuxt, Tailwind CSS" />
+<img src="https://skillicons.dev/icons?i=ts,js,angular,react,nextjs,vue,nuxtjs,tailwind,bootstrap" alt="TypeScript, JavaScript, Angular, React, Next.js, Vue, Nuxt, Tailwind CSS, Bootstrap" />
 
 **Backend & data**<br />
-<img src="https://skillicons.dev/icons?i=php,laravel,graphql,apollo,nodejs,express,python,mysql,postgres,supabase" alt="PHP, Laravel, GraphQL, Apollo, Node.js, Express, Python, MySQL, PostgreSQL, Supabase" />
+<img src="https://skillicons.dev/icons?i=php,laravel,graphql,apollo,nodejs,express,python,mysql,postgres,supabase,prisma" alt="PHP, Laravel, GraphQL, Apollo, Node.js, Express, Python, MySQL, PostgreSQL, Supabase, Prisma" />
 
 **DevOps, testing & tools**<br />
-<img src="https://skillicons.dev/icons?i=docker,nginx,aws,linux,git,github,gitlab,jest,vitest,tauri" alt="Docker, Nginx, AWS, Linux, Git, GitHub, GitLab, Jest, Vitest, Tauri" />
+<img src="https://skillicons.dev/icons?i=docker,nginx,aws,linux,git,github,gitlab,vscode,jest,vitest,tauri" alt="Docker, Nginx, AWS, Linux, Git, GitHub, GitLab, Jest, Vitest, VS Code, Tauri" />
 
 Also: Angular Material, Laravel Lighthouse, Playwright, PHPUnit, n8n automation.
 
