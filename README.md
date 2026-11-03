@@ -6,6 +6,9 @@ I build responsive web applications that pair clean design with solid backends. 
 
 🌐 [kasl-portfolio.netlify.app](https://kasl-portfolio.netlify.app) · ✉️ [kier.salise.dev@gmail.com](mailto:kier.salise.dev@gmail.com) · 🎵 [TikTok @devkasl](https://www.tiktok.com/@devkasl)
 
+<!-- Profile view counter. GitHub strips scripts from READMEs, so the alt text is the fallback if the image fails to load. -->
+<img src="https://komarev.com/ghpvc/?username=KAS-L1&color=0ea5e9&style=flat-square&label=Profile+views" alt="👁️ Profile views counter" height="20" />
+
 ## Currently
 
 - 🏢 Building and maintaining an enterprise HRIS platform at Ascendens Asia
