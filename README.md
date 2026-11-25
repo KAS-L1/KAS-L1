@@ -2,7 +2,7 @@
 
 **Full-Stack Software Engineer** at Ascendens Asia · **MSIT student** at University of the People · Quezon City, Philippines
 
-I build responsive web applications that pair clean design with solid backends. I'm currently the sole developer of an enterprise HRIS platform (Angular, Laravel, GraphQL, PostgreSQL, Docker on AWS). Outside of code, I'm a Filipino martial artist.
+I've been building software professionally since 2025. Right now I build and maintain internal systems at Ascendens Asia with Angular, Laravel, and GraphQL, from an HRIS to an AI-assisted support tool. Outside of code, I'm a Filipino martial artist.
 
 🌐 [kasl-portfolio.netlify.app](https://kasl-portfolio.netlify.app) · ✉️ [kier.salise.dev@gmail.com](mailto:kier.salise.dev@gmail.com) · 🎵 [TikTok @devkasl](https://www.tiktok.com/@devkasl)
 
@@ -11,7 +11,7 @@ I build responsive web applications that pair clean design with solid backends. 
 
 ## Currently
 
-- 🏢 Building and maintaining an enterprise HRIS platform at Ascendens Asia
+- 🏢 Building and maintaining custom internal systems at Ascendens Asia
 - 🎓 Studying for a Master of Science in Information Technology at University of the People
 - 🎮 Shipping [KASLCODM](https://kasl-codm.netlify.app), a gun builds and meta site for Call of Duty: Mobile players
 
@@ -20,8 +20,27 @@ I build responsive web applications that pair clean design with solid backends. 
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [KASLCODM](https://kasl-codm.netlify.app) | Call of Duty: Mobile gun builds, validated loadout codes, and meta tier lists | Next.js, TypeScript, Supabase |
-| [Tongits Pro Tracker](https://kasl-tongitspro.netlify.app) | Real-time card tracker and probability calculator for Tongits | React, Vite, Node.js, WebSockets |
+| [Tongits Pro](https://kasl-tongitspro.netlify.app) | The Filipino card game in the browser: play offline against bots or online with friends | React, Vite, Node.js, WebSockets |
+| [Support Hub](https://kasl-portfolio.netlify.app/projects/support-hub) | Internal tool where an AI agent investigates support tickets against a read-only database (private) | Python, MySQL, AI agents |
 | [Portfolio](https://kasl-portfolio.netlify.app) | My personal site with project case studies | Next.js, TypeScript, Tailwind CSS |
+
+## Writing
+
+- [Three locks between an AI agent and a production database](https://kasl-portfolio.netlify.app/writing/ai-agent-production-database)
+- [One rules engine for the browser and the server](https://kasl-portfolio.netlify.app/writing/tongits-one-rules-engine)
+- [Making a copy button work inside Messenger](https://kasl-portfolio.netlify.app/writing/copy-button-messenger)
+
+## What people say
+
+> Kas doesn't wait to be told what to do. When there's a problem, he works out a practical solution, and when the usual approach doesn't fit, he finds a smarter one.
+>
+> — **James Mac**, System Development and Administration Head, Ascendens Asia
+
+> He consistently brings fresh perspectives and innovative solutions to challenges.
+>
+> — **Sebastian Curtis Lavarias**, Senior Backend Developer / AI Operator, GoTeam
+
+[More on my portfolio →](https://kasl-portfolio.netlify.app/#recommendations)
 
 ## Tech stack
 
