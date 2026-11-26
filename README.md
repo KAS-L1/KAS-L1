@@ -4,7 +4,7 @@
 
 I've been building software professionally since 2025. Right now I build and maintain internal systems at Ascendens Asia with Angular, Laravel, and GraphQL, from an HRIS to an AI-assisted support tool. Outside of code, I'm a Filipino martial artist.
 
-🌐 [kasl-portfolio.netlify.app](https://kasl-portfolio.netlify.app) · ✉️ [kier.salise.dev@gmail.com](mailto:kier.salise.dev@gmail.com) · 🎵 [TikTok @devkasl](https://www.tiktok.com/@devkasl)
+🌐 [kasl.me](https://kasl.me) · ✉️ [kier.salise.dev@gmail.com](mailto:kier.salise.dev@gmail.com) · 🎵 [TikTok @devkasl](https://www.tiktok.com/@devkasl)
 
 <!-- Profile view counter. GitHub strips scripts from READMEs, so the alt text is the fallback if the image fails to load. -->
 <img src="https://komarev.com/ghpvc/?username=KAS-L1&color=0ea5e9&style=flat-square&label=Profile+views" alt="👁️ Profile views counter" height="20" />
@@ -22,14 +22,14 @@ I've been building software professionally since 2025. Right now I build and mai
 | [Tama ba 'to?](https://kasl-tama-ba-to.netlify.app) | Answers everyday road questions (bawal ba, pwede ba) in plain Taglish, citing the exact law, plus 40 road signs | Next.js, TypeScript, Zod, MiniSearch |
 | [KASLCODM](https://kasl-codm.netlify.app) | Call of Duty: Mobile gun builds, validated loadout codes, and meta tier lists | Next.js, TypeScript, Supabase |
 | [Tongits Pro](https://kasl-tongitspro.netlify.app) | The Filipino card game in the browser: play offline against bots or online with friends | React, Vite, Node.js, WebSockets |
-| [Support Hub](https://kasl-portfolio.netlify.app/projects/support-hub) | Internal tool where an AI agent investigates support tickets against a read-only database (private) | Python, MySQL, AI agents |
-| [Portfolio](https://kasl-portfolio.netlify.app) | My personal site with project case studies | Next.js, TypeScript, Tailwind CSS |
+| [Support Hub](https://kasl.me/projects/support-hub) | Internal tool where an AI agent investigates support tickets against a read-only database (private) | Python, MySQL, AI agents |
+| [Portfolio](https://kasl.me) | My personal site with project case studies | Next.js, TypeScript, Tailwind CSS |
 
 ## Writing
 
-- [Three locks between an AI agent and a production database](https://kasl-portfolio.netlify.app/writing/ai-agent-production-database)
-- [One rules engine for the browser and the server](https://kasl-portfolio.netlify.app/writing/tongits-one-rules-engine)
-- [Making a copy button work inside Messenger](https://kasl-portfolio.netlify.app/writing/copy-button-messenger)
+- [Three locks between an AI agent and a production database](https://kasl.me/writing/ai-agent-production-database)
+- [One rules engine for the browser and the server](https://kasl.me/writing/tongits-one-rules-engine)
+- [Making a copy button work inside Messenger](https://kasl.me/writing/copy-button-messenger)
 
 ## What people say
 
@@ -57,7 +57,7 @@ I've been building software professionally since 2025. Right now I build and mai
 >
 > — **Aldwin Dylan Samano**, Junior Software Engineer, MicroSource Inc.
 
-[More on my portfolio →](https://kasl-portfolio.netlify.app/#recommendations)
+[More on my portfolio →](https://kasl.me/#recommendations)
 
 ## Tech stack
 
