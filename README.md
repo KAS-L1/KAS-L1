@@ -36,6 +36,10 @@ I've been building software professionally since 2025. Right now I build and mai
 >
 > — **James Mac**, System Development and Administration Head, Ascendens Asia
 
+> What stands out most is his willingness to learn, his ability to solve problems independently, and his initiative to turn challenges into practical solutions.
+>
+> — **Jay Melendrez**, Tech Leader & Builder of Innovators, Socia
+
 > He consistently brings fresh perspectives and innovative solutions to challenges.
 >
 > — **Sebastian Curtis Lavarias**, Senior Backend Developer / AI Operator, GoTeam
