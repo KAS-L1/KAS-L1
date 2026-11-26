@@ -40,6 +40,14 @@ I've been building software professionally since 2025. Right now I build and mai
 >
 > — **Sebastian Curtis Lavarias**, Senior Backend Developer / AI Operator, GoTeam
 
+> What stands out most is his drive to constantly learn new technologies and add them to his arsenal to sharpen his craft.
+>
+> — **Ken Frianeza**, Freelance Full Stack Developer
+
+> He approaches tasks with a problem solving mindset, adapts well to challenges, and takes initiative in finding practical solutions.
+>
+> — **Aldwin Dylan Samano**, Junior Software Engineer, MicroSource Inc.
+
 [More on my portfolio →](https://kasl-portfolio.netlify.app/#recommendations)
 
 ## Tech stack
