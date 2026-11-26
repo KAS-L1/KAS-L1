@@ -44,6 +44,10 @@ I've been building software professionally since 2025. Right now I build and mai
 >
 > — **Sebastian Curtis Lavarias**, Senior Backend Developer / AI Operator, GoTeam
 
+> He is eager to learn, quick to adapt to new environments, and always open to growth.
+>
+> — **Jason Tajor**, UI/UX, Socia
+
 > What stands out most is his drive to constantly learn new technologies and add them to his arsenal to sharpen his craft.
 >
 > — **Ken Frianeza**, Freelance Full Stack Developer
