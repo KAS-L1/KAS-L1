@@ -13,14 +13,14 @@ I've been building software professionally since 2025. Right now I build and mai
 
 - 🏢 Building and maintaining custom internal systems at Ascendens Asia
 - 🎓 Studying for a Master of Science in Information Technology at University of the People
-- 🚦 Shipping [Tama ba 'to?](https://kasl-tama-ba-to.netlify.app), Philippine road rules explained in plain Taglish, with the law behind every answer
+- 🚦 Shipping [Tama ba 'to?](https://tamabato.kasl.me), Philippine road rules explained in plain Taglish, with the law behind every answer
 
 ## Featured projects
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [Tama ba 'to?](https://kasl-tama-ba-to.netlify.app) | Answers everyday road questions (bawal ba, pwede ba) in plain Taglish, citing the exact law, plus 40 road signs | Next.js, TypeScript, Zod, MiniSearch |
-| [KASLCODM](https://kasl-codm.netlify.app) | Call of Duty: Mobile gun builds, validated loadout codes, and meta tier lists | Next.js, TypeScript, Supabase |
+| [Tama ba 'to?](https://tamabato.kasl.me) | Answers everyday road questions (bawal ba, pwede ba) in plain Taglish, citing the exact law, plus 40 road signs | Next.js, TypeScript, Zod, MiniSearch |
+| [KASLCODM](https://codm.kasl.me) | Call of Duty: Mobile gun builds, validated loadout codes, and meta tier lists | Next.js, TypeScript, Supabase |
 | [Tongits Pro](https://kasl-tongitspro.netlify.app) | The Filipino card game in the browser: play offline against bots or online with friends | React, Vite, Node.js, WebSockets |
 | [Support Hub](https://kasl.me/projects/support-hub) | Internal tool where an AI agent investigates support tickets against a read-only database (private) | Python, MySQL, AI agents |
 | [Portfolio](https://kasl.me) | My personal site with project case studies | Next.js, TypeScript, Tailwind CSS |
