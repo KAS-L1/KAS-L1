@@ -33,23 +33,27 @@ I've been building software professionally since 2025. Right now I build and mai
 
 ## What people say
 
-> Kas doesn't wait to be told what to do. When there's a problem, he works out a practical solution, and when the usual approach doesn't fit, he finds a smarter one.
+> Automation is where Kas really stands out. He has a sharp eye for repetitive, time-consuming tasks and turns them into efficient automated processes.
 >
 > — **James Mac**, System Development and Administration Head, Ascendens Asia
 
-> What stands out most is his willingness to learn, his ability to solve problems independently, and his initiative to turn challenges into practical solutions.
+> He doesn’t wait to be told what to do; he takes ownership and continuously looks for ways to improve.
 >
 > — **Jay Melendrez**, Tech Leader & Builder of Innovators, Socia
+
+> What matters most is the character and professionalism an individual brings to the team, and Kas embodies these qualities.
+>
+> — **Danneil Louven Alinea**, Developer / AI Engineer
 
 > He consistently brings fresh perspectives and innovative solutions to challenges.
 >
 > — **Sebastian Curtis Lavarias**, Senior Backend Developer / AI Operator, GoTeam
 
-> He is eager to learn, quick to adapt to new environments, and always open to growth.
+> I believe he has the technical capabilities, mindset, and potential to lead a team in the future.
 >
 > — **Jason Tajor**, UI/UX, Socia
 
-> What stands out most is his drive to constantly learn new technologies and add them to his arsenal to sharpen his craft.
+> He is always looking for ways to improve both his skills and the quality of his work, taking strong ownership of everything he handles.
 >
 > — **Ken Frianeza**, Freelance Full Stack Developer
 
