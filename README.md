@@ -4,7 +4,7 @@
 
 I've been building software professionally since 2025. Right now I build and maintain internal systems at Ascendens Asia with Angular, Laravel, and GraphQL, from an HRIS to an AI-assisted support tool. Outside of code, I'm a Filipino martial artist.
 
-🌐 [kasl.me](https://kasl.me) · ✉️ [kier.salise.dev@gmail.com](mailto:kier.salise.dev@gmail.com) · 🎵 [TikTok @devkasl](https://www.tiktok.com/@devkasl)
+🌐 [kasl.me](https://kasl.me) · 💼 [LinkedIn](https://www.linkedin.com/in/kiersalise) · ✉️ [kier.salise.dev@gmail.com](mailto:kier.salise.dev@gmail.com) · 🎵 [TikTok @devkasl](https://www.tiktok.com/@devkasl)
 
 <!-- Profile view counter. GitHub strips scripts from READMEs, so the alt text is the fallback if the image fails to load. -->
 <img src="https://komarev.com/ghpvc/?username=KAS-L1&color=0ea5e9&style=flat-square&label=Profile+views" alt="👁️ Profile views counter" height="20" />
