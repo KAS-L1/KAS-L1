@@ -27,6 +27,7 @@ I've been building software professionally since 2025. Right now I build and mai
 
 ## Writing
 
+- [A build that refuses to publish an unsourced legal answer](https://kasl.me/writing/build-refuses-unverified-answers)
 - [Three locks between an AI agent and a production database](https://kasl.me/writing/ai-agent-production-database)
 - [One rules engine for the browser and the server](https://kasl.me/writing/tongits-one-rules-engine)
 - [Making a copy button work inside Messenger](https://kasl.me/writing/copy-button-messenger)
